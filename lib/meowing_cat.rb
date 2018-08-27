@@ -1,2 +1,3 @@
 ## code your solution here. 
-Clas
+Class Cat
+  
